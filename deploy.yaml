@@ -1,0 +1,6 @@
+production:
+    type: rsync
+    host: 165.227.29.88
+    user: root
+    commands: "-avz --delete --progress --quiet"
+    path: /srv/www/benpluskelsey.com/html
