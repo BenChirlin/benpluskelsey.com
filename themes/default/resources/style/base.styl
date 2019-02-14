@@ -1,0 +1,38 @@
+html, body
+	@media(max-width $breakpoints.tablet)
+		font-size 90%
+
+h1
+	color $dark
+	font-size 7rem
+	line-height 0.7em
+	@media(max-width $breakpoints.mobile)
+			font-size 5rem
+	margin 0
+	user-select none
+h2
+	font-size 3em
+h1,h2
+	font-family 'Tangerine', sans-serif
+h1,h2,h3
+	color $dark
+	text-shadow 1px 3px 5px rgba(0,0,0,.3)
+	text-align center
+	margin 5px 10px 10px
+p
+	color $dark
+	display flex
+	margin-bottom 20px
+
+	img
+		margin auto
+a
+	display inline-block
+	text-decoration none
+	user-select none
+	color $dark
+
+	&:visited
+		color $dark
+	&:hover
+		color $peach

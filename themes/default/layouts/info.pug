@@ -4,14 +4,16 @@ head
 	link(rel="shortcut icon" href="/favicon.png")
 	meta(content="width=device-width, height=device-height, initial-scale=1, minimum-scale=1.0, maximum-scale=1" name="viewport")
 	block head
-body.home
+body.info
 	block content
-		#background-overlay
 		#body
+			a(href='/')#header-logo
+				h1#ben-kelsey Ben + Kelsey
+			#nav
+				a(href='/story') Our Story
+				a(href='/venue') Venue
+				a(href='/accommodation') Accommodation
+				a(href='/registry') Registry
 			.content
 				!= content
-				#nav
-					a(href='/story') Our Story
-					a(href='/venue') Venue
-					a(href='/accommodation') Accommodation
-					a(href='/registry') Registry
+	block footer

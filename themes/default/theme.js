@@ -1,1 +1,1 @@
-require('./style.styl')
+require('./style.styl');
