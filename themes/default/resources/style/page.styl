@@ -1,7 +1,8 @@
-html, body
+html
 	font-family 'Thasadith', sans-serif
-	background-color $yellow
+	background-color $dark
 
+body
 	&.home
 		background-position center
 		background-repeat no-repeat
@@ -9,6 +10,9 @@ html, body
 		background-image url('/images/background.jpg')
 	&.info
 		background-image url('/images/stucco-1.png')
+		background-repeat repeat
+		background-size auto
+		background-color $yellow
 
 #header-logo
 	margin-top 20px
@@ -38,6 +42,7 @@ html, body
 .home
 	#body
 		justify-content flex-end
+		padding-bottom 0
 	#nav
 		display flex
 		justify-content space-around

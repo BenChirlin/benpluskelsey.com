@@ -1,9 +1,9 @@
 {
-	"name": "cogear-theme-default",
-	"description": "Default Cogear.JS theme",
-	"version": "1.0.1",
-	"author": "Dmitriy Belyaev <admin@cogearjs.org>",
-	"repository": "https://github.com/codemotion/cogear-theme-default",
-	"homepage": "https://cogearjs.org",
+	"name": "ben-plus-kelsey",
+	"description": "Ben & Kelsey Wedding Website",
+	"version": "1.0.0",
+	"author": "Benjamin Chirlin <fireant202@gmail.com>",
+	"repository": "https://github.com/BenChirlin/benpluskelsey.com",
+	"homepage": "http://benjaminchirlin.com/",
 	"license": "MIT"
 }
