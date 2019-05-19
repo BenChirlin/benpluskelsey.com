@@ -1,3 +1,19 @@
+border-radius(n)
+  -webkit-border-radius n
+  -moz-border-radius n
+  border-radius n
+  
+box-shadow(args)
+  -webkit-box-shadow args
+  -moz-box-shadow args
+  box-shadow args
+
+transform(args)
+  -moz-transform args
+  -webkit-transform args
+  -o-transform args
+  -khtml-transform args
+
 html, body
 	@media(max-width $breakpoints.tablet)
 		font-size 90%
@@ -25,7 +41,8 @@ p
 	margin-bottom 20px
 
 	img
-		margin auto
+		margin 20px auto
+		box-shadow(-5px 5px 20px -2px rgba(0,0,0,0.5))
 a
 	display inline-block
 	text-decoration none
