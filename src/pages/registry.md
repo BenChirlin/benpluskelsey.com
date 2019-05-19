@@ -5,12 +5,16 @@ layout: info
 
 ## Registry
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum condimentum arcu id tellus pulvinar, vitae bibendum tellus suscipit. In porttitor, ligula sed dapibus consequat, lorem tortor porta risus, id sollicitudin neque libero at nibh.
+We love gifts as much as the next couple but we don’t feel a sincere need for more objects in our daily lives. As such we hope that if you do wish to give us a gift you consider donation to our Happily Ever After fund, a quarter of which we’ll be donating to charity. We will have a guest book table at the reception where you leave any gifts or envelopes. You can also gift digitally here.
 
 ### Happily Ever After
 
-Fusce dignissim venenatis varius. Aliquam suscipit rutrum nisi, id aliquet mi dignissim sed. Etiam metus lectus, ornare id pharetra et, tempor at est. Cras quis porttitor lectus, a fermentum orci. Proin vulputate felis non nibh tincidunt, nec vestibulum turpis cursus. Cras tristique ornare justo ut gravida. Suspendisse varius lobortis eros nec iaculis. Vestibulum luctus erat non lorem aliquam, mattis ullamcorper libero molestie.
+It is Jewish tradition to give gifts of money for a wedding. Traditionally this is given in increments of $18, the numerical representation of “chai”, or “life”, in Hebrew. However much you decide to give know 25% will go to our favorite charities and the rest towards the next big steps in our lives as we build a family and hopefully buy a home.
 
-### Charity
+### Charities
 
-Nam imperdiet, diam at bibendum malesuada, tellus urna condimentum purus, et pellentesque lacus lectus nec tortor. Proin eu est eros. Duis venenatis accumsan felis, ut sollicitudin erat elementum ac. Donec dictum tortor a pellentesque pharetra. Quisque lobortis vitae ante at posuere. Aenean sed nibh dui. Pellentesque velit nulla, vehicula et tortor id, eleifend faucibus mi. Duis lobortis mauris vel sodales luctus. Aliquam erat volutpat.
+We’re both big fans of charity and believe it is our individual duty, as privileged children of blessed families, to give to those causes that need our assistance. Please find a list of some of our favorite charities below. We’ll be distributing a quarter of the gift fund to charities like the following:
+
+- [The Arc SF](https://www.thearcsf.org/)
+- [Community Housing Partnership SF](https://www.chp-sf.org/)
+- [The Malala Fund](https://www.malala.org/)

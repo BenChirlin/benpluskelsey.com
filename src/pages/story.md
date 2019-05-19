@@ -5,17 +5,16 @@ layout: info
 
 ## Our Story
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum condimentum arcu id tellus pulvinar, vitae bibendum tellus suscipit. In porttitor, ligula sed dapibus consequat, lorem tortor porta risus, id sollicitudin neque libero at nibh.
+We first met in the summer of 2015 in our Oakland, California. We hit it off, pretty quickly and decided to give our relationship a serious try. Since then, we’ve been building our relationship and falling deeper in love everyday. Now we’re ready to start our next important chapter and hope you can join us in celebrating this exciting milestone.
 
 ### How We Met
 
-Fusce dignissim venenatis varius. Aliquam suscipit rutrum nisi, id aliquet mi dignissim sed. Etiam metus lectus, ornare id pharetra et, tempor at est. Cras quis porttitor lectus, a fermentum orci. Proin vulputate felis non nibh tincidunt, nec vestibulum turpis cursus. Cras tristique ornare justo ut gravida. Suspendisse varius lobortis eros nec iaculis. Vestibulum luctus erat non lorem aliquam, mattis ullamcorper libero molestie.
+It was a summer night in Oakland. Our mutual friends Jess and Seamus were throwing a party at their home near Temescal. We began chatting above the party hubbub, eventually trading increasingly bad jokes back and forth. Ben, as always, had brought some little games to play with guests. After a few rounds of play he “made his move” and gave Kelsey a business card cause he’s classy like that. Several lovely dates followed thereafter.
 
 ### Our Home
 
-Nam imperdiet, diam at bibendum malesuada, tellus urna condimentum purus, et pellentesque lacus lectus nec tortor. Proin eu est eros. Duis venenatis accumsan felis, ut sollicitudin erat elementum ac. Donec dictum tortor a pellentesque pharetra. Quisque lobortis vitae ante at posuere. Aenean sed nibh dui. Pellentesque velit nulla, vehicula et tortor id, eleifend faucibus mi. Duis lobortis mauris vel sodales luctus. Aliquam erat volutpat.
+After dating for over a year across the Bay Bridge we decided it was time to move in together. Craigslist to the rescue! Following a thorough Oakland-based search (color-coded spreadsheet custom scoring index included) we lucked into a marvelous apartment in downtown Oakland steps away from the gorgeous Lake Merritt. We set up our home surrounded by the things we love including plentiful art, music, and games and have been living there quite happily with our two cats, Ame and Taiyo, ever since.
 
 ### What's Next?
 
-Pellentesque tellus magna, faucibus condimentum condimentum in, interdum vel purus. Cras fringilla sollicitudin orci commodo lobortis. Fusce sagittis pulvinar dolor, vitae pulvinar diam. Sed rutrum congue porta. Proin a mi quis ex rutrum pulvinar. Donec tincidunt vehicula elementum. Donec tincidunt dignissim lacinia. Vestibulum semper malesuada elit, quis posuere neque iaculis eu.
-
+We’re about to find out! And we hope you’ll be there with us along the way. We hope to stay in the Bay Area for the foreseeable future as we start this exciting next step in our relationship. But after that who knows!?

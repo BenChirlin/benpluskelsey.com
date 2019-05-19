@@ -5,17 +5,20 @@ layout: info
 
 ## Accommodation
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum condimentum arcu id tellus pulvinar, vitae bibendum tellus suscipit. In porttitor, ligula sed dapibus consequat, lorem tortor porta risus, id sollicitudin neque libero at nibh.
+Sonoma, as famous as it is, is still quite small and quaint. There are not many major hotels so we suggest you book your accommodation as soon as possible. The area is quite popular year round but especially around this lovely Fall date we’ve chosen.
 
 ### Hotels
 
-Fusce dignissim venenatis varius. Aliquam suscipit rutrum nisi, id aliquet mi dignissim sed. Etiam metus lectus, ornare id pharetra et, tempor at est. Cras quis porttitor lectus, a fermentum orci. Proin vulputate felis non nibh tincidunt, nec vestibulum turpis cursus. Cras tristique ornare justo ut gravida. Suspendisse varius lobortis eros nec iaculis. Vestibulum luctus erat non lorem aliquam, mattis ullamcorper libero molestie.
+We were unable to find or secure any hotel blocks due to the popularity of the venue. However we were able to find [this link](https://www.hotelplanner.com/Search/?locale=en_US&City=The%20Depot%20Hotel%20Restaurant%20Sonoma%20241%201st%20St%20W%2C%20Sonoma%2C%20CA%2095476%2C%20USA&Latitude=38.2966458&Longitude=-122.4581722&InDate=09/14/2019&OutDate=09/15/2019&gid=5044932&NumRooms=1&sc=TheKnot_Article&kw=eventpage&_hp=1312019225219#dir-bar) which may provide a discount. Otherwise we suggest you look at the following for where to stay.
 
-### Air BnB
+- [The Sonoma Hotel](https://www.sonomahotel.com/) quaint and historic
+- [The Lodge Marriott](https://www.marriott.com/hotels/travel/sfols-the-lodge-at-sonoma-renaissance-resort-and-spa/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2) resort and spa
+- [El Pueblo Inn](http://www.elpuebloinn.com/) a wine country oasis
+- [Swiss Hotel](http://www.swisshotelsonoma.com/) small and downtown
+- [MacArthur Place](https://www.macarthurplace.com/) high end
 
-Nam imperdiet, diam at bibendum malesuada, tellus urna condimentum purus, et pellentesque lacus lectus nec tortor. Proin eu est eros. Duis venenatis accumsan felis, ut sollicitudin erat elementum ac. Donec dictum tortor a pellentesque pharetra. Quisque lobortis vitae ante at posuere. Aenean sed nibh dui. Pellentesque velit nulla, vehicula et tortor id, eleifend faucibus mi. Duis lobortis mauris vel sodales luctus. Aliquam erat volutpat.
+If, as is very likely, there is no space at the hotels above we recommend you check Petaluma, a half hour drive away, or other nearby towns for larger hotels.
 
 ### Other Options
 
-Pellentesque tellus magna, faucibus condimentum condimentum in, interdum vel purus. Cras fringilla sollicitudin orci commodo lobortis. Fusce sagittis pulvinar dolor, vitae pulvinar diam. Sed rutrum congue porta. Proin a mi quis ex rutrum pulvinar. Donec tincidunt vehicula elementum. Donec tincidunt dignissim lacinia. Vestibulum semper malesuada elit, quis posuere neque iaculis eu.
-
+As one of the favorite vacation spots for those here in “disruption” obsessed Silicon Valley there are plenty of alternatives in Sonoma if the slim pickings of hotels run out. Namely we suggest looking at [Airbnb](https://www.airbnb.com/) (this is how we found our place!), [VRBO](https://www.vrbo.com/), [Homeaway](https://www.homeaway.com/), or [TrustedHousesitters](https://www.trustedhousesitters.com/refer/RAF87908/) (this is what we use to take care of our cats when we go out of town!).
