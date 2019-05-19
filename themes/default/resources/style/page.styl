@@ -38,6 +38,7 @@ body
 		margin 0 2px
 		border-radius(10px)
 		text-decoration none
+		z-index 5
 
 		&:hover
 			color $dark
@@ -53,6 +54,7 @@ body
 			color transparent
 			background $dark-transparent
 			height 100%
+			z-index -1
 
 		&:hover:after
 				width 100%
@@ -73,6 +75,12 @@ body
 		display flex
 		justify-content space-around
 		margin 30px 50px 0
+
+		a
+			&:hover
+				color $white
+			&:after
+				background-color $blue
 	.content
 		margin-bottom 7vh
 		z-index 5
