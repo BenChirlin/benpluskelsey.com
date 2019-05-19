@@ -20,19 +20,42 @@ body
 	h1
 		font-size 55px
 #nav
+	ul
+		list-style none
+		text-align center
+		margin 0
+	li
+		display inline-block
+
+	a,
+	a:after
+		transition all 0.5s
 	a
+		position relative
 		font-size 20px
 		font-weight 700
-		margin 0 10px
-		padding 10px
+		padding 0 10px
+		margin 0 2px
 		border-radius(10px)
 		text-decoration none
-		transition background-color 0.3s
 
 		&:hover
-			background-color rgba(0, 0, 0, 0.5)
-			text-decoration none
-			color $peach
+			color $dark
+
+		&:after
+			position absolute
+			bottom 0
+			left 0
+			right 0
+			margin auto
+			width 0%
+			content '.'
+			color transparent
+			background $dark-transparent
+			height 100%
+
+		&:hover:after
+				width 100%
 
 #body
 	display flex

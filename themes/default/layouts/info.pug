@@ -10,10 +10,15 @@ body.info
 			a(href='/')#header-logo
 				h1#ben-kelsey Ben + Kelsey
 			#nav
-				a(href='/story') Our Story
-				a(href='/venue') Venue
-				a(href='/accommodation') Accommodation
-				a(href='/registry') Registry
+				ul
+					li
+						a(href='/story') Our Story
+					li
+						a(href='/venue') Venue
+					li
+						a(href='/accommodation') Accommodation
+					li
+						a(href='/registry') Registry
 			.content
 				!= content
 	block footer
