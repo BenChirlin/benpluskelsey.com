@@ -9,7 +9,7 @@ We're excited for you to join us in lovely, sunny, Sonoma! If you've never been 
 
 ### Hotel Depot Restaurant
 
-![Hotel Depot Restaurant](/images/depot-hotel-restaurant.jpg "Logo Title Text 1")
+![Hotel Depot Restaurant](/images/depot-hotel-restaurant.jpg "Hotel Depot Restaurant")
 
 We scoured the Bay Area for suitable wedding venues, everywhere from our Oakland backyard to the distant Redwoods. But when we visited the Hotel Depot in Sonoma it was a welcome reprieve from this otherwise stressful endeavor. The location, staff, food, and (most importantly) the venue itself were all superb. We hope you will agree!
 

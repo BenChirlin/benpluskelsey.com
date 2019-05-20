@@ -7,6 +7,8 @@ layout: info
 
 We first met in the summer of 2015 in our Oakland, California. We hit it off, pretty quickly and decided to give our relationship a serious try. Since then, we've been building our relationship and falling deeper in love everyday. Now we're ready to start our next important chapter and hope you can join us in celebrating this exciting milestone.
 
+![Love lifts you up where you belong](/images/dock.jpg "Love lifts you up where you belong")
+
 ### How We Met
 
 It was a summer night in Oakland. Our mutual friends Jess and Seamus were throwing a party at their home near Temescal. We began chatting above the party hubbub, eventually trading increasingly bad jokes back and forth. Ben, as always, had brought some little games to play with guests. After a few rounds of play he "made his move" and gave Kelsey a business card cause he's classy like that. Several lovely dates followed thereafter.
