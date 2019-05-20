@@ -9,7 +9,7 @@ We first met in the summer of 2015 in our Oakland, California. We hit it off, pr
 
 ### How We Met
 
-It was a summer night in Oakland. Our mutual friends Jess and Seamus were throwing a party at their home near Temescal. We began chatting above the party hubbub, eventually trading increasingly bad jokes back and forth. Ben, as always, had brought some little games to play with guests. After a few rounds of play he “made his move” and gave Kelsey a business card cause he's classy like that. Several lovely dates followed thereafter.
+It was a summer night in Oakland. Our mutual friends Jess and Seamus were throwing a party at their home near Temescal. We began chatting above the party hubbub, eventually trading increasingly bad jokes back and forth. Ben, as always, had brought some little games to play with guests. After a few rounds of play he "made his move" and gave Kelsey a business card cause he's classy like that. Several lovely dates followed thereafter.
 
 ### Our Home
 

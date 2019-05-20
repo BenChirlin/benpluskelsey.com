@@ -21,4 +21,4 @@ If, as is very likely, there is no space at the hotels above we recommend you ch
 
 ### Other Options
 
-As one of the favorite vacation spots for those here in “disruption” obsessed Silicon Valley there are plenty of alternatives in Sonoma if the slim pickings of hotels run out. Namely we suggest looking at [Airbnb](https://www.airbnb.com/) (this is how we found our place!), [VRBO](https://www.vrbo.com/), [Homeaway](https://www.homeaway.com/), or [TrustedHousesitters](https://www.trustedhousesitters.com/refer/RAF87908/) (this is what we use to take care of our cats when we go out of town!).
+As one of the favorite vacation spots for those here in "disruption" obsessed Silicon Valley there are plenty of alternatives in Sonoma if the slim pickings of hotels run out. Namely we suggest looking at [Airbnb](https://www.airbnb.com/) (this is how we found our place!), [VRBO](https://www.vrbo.com/), [Homeaway](https://www.homeaway.com/), or [TrustedHousesitters](https://www.trustedhousesitters.com/refer/RAF87908/) (this is what we use to take care of our cats when we go out of town!).

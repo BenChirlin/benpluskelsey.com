@@ -9,7 +9,7 @@ We love gifts as much as the next couple but we don't feel a sincere need for mo
 
 ### Happily Ever After
 
-It is Jewish tradition to give gifts of money for a wedding. Traditionally this is given in increments of $18, the numerical representation of “chai”, or “life”, in Hebrew. However much you decide to give know 25% will go to our favorite charities and the rest towards the next big steps in our lives as we build a family and hopefully buy a home.
+It is Jewish tradition to give gifts of money for a wedding. Traditionally this is given in increments of $18, the numerical representation of "chai", or "life", in Hebrew. However much you decide to give know 25% will go to our favorite charities and the rest towards the next big steps in our lives as we build a family and hopefully buy a home.
 
 ### Charities
 
