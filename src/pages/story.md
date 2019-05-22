@@ -1,6 +1,7 @@
 ---
 title: 'Ben + Kelsey: Our Story'
 layout: info
+uri: story
 ---
 
 ## Our Story

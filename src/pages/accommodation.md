@@ -1,6 +1,7 @@
 ---
 title: 'Ben + Kelsey: Accommodation'
 layout: info
+uri: accommodation
 ---
 
 ## Accommodation

@@ -1,6 +1,7 @@
 ---
 title: 'Ben + Kelsey: Venue'
 layout: info
+uri: venue
 ---
 
 ## Sonoma

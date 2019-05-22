@@ -1,6 +1,7 @@
 ---
 title: 'Ben + Kelsey: Registry'
 layout: info
+uri: registry
 ---
 
 ## Registry
