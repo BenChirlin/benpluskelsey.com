@@ -6,7 +6,9 @@ uri: registry
 
 ## Registry
 
-We love gifts as much as the next couple but we don't feel a sincere need for more objects in our daily lives. As such we hope that if you do wish to give us a gift you consider donation to our Happily Ever After fund, a quarter of which we'll be donating to charity. We will have a guest book table at the reception where you leave any gifts or envelopes. You can also gift digitally here.
+At this time in our lives, having been together for four years and combining two households, we hope that in lieu of a gift item, you will consider a contribution to our Happily Ever After Fund, a quarter of which we intend to donate to charity. The Fund will help us take the next big steps in our lives as we build a family and hopefully buy a home.
+
+There will be a guest book table at the reception where gifts or envelopes may be left.
 
 ![Into the Sunset](/images/motorcycle.jpg "Into the Sunset")
 
@@ -16,8 +18,9 @@ It is Jewish tradition to give gifts of money for a wedding. Traditionally this 
 
 ### Charities
 
-We're both big fans of charity and believe it is our individual duty, as privileged children of blessed families, to give to those causes that need our assistance. Please find a list of some of our favorite charities below. We'll be distributing a quarter of the gift fund to charities like the following:
+We both believe it is our individual duty, as privileged children of blessed families, to give to those causes that need our assistance. We'll be distributing a quarter of the gift fund to the following:
 
 - [The Arc SF](https://www.thearcsf.org/)
 - [Community Housing Partnership SF](https://www.chp-sf.org/)
 - [The Malala Fund](https://www.malala.org/)
+- Final list TBD
