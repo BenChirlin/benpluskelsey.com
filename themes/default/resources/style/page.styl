@@ -15,48 +15,11 @@ body
 		background-color $off-white
 
 #header-logo
-	margin-top 20px
+	margin-top 45px
 	text-decoration none
 	h1
 		font-size 55px
-#nav
-	ul
-		list-style none
-		text-align center
-		margin 0
-	li
-		display inline-block
-
-	a,
-	a:after
-		transition all 0.5s
-	a
-		position relative
-		font-size 20px
-		padding 0 10px
-		margin 0 2px
-		border-radius(10px)
-		text-decoration none
-		z-index 5
-
-		&:hover
-			color $dark
-
-		&:after
-			position absolute
-			bottom 0
-			left 0
-			right 0
-			margin auto
-			width 0%
-			content '.'
-			color transparent
-			background $dark-transparent
-			height 100%
-			z-index -1
-
-		&:hover:after
-				width 100%
+		line-height 20px
 
 #body
 	display flex
@@ -76,10 +39,8 @@ body
 		margin 30px 50px 0
 
 		a
-			&:hover
-				color $white
-			&:after
-				background-color $blue-transparent
+			color $robin
+
 	.content
 		margin-bottom 7vh
 		z-index 5
@@ -96,6 +57,9 @@ body
 		margin-bottom 25px
 		padding-bottom 15px
 		border-bottom 1px solid $dark
+		a
+			color $blue
+
 	.content
 		padding 0 20px
 		min-width 80%
@@ -110,3 +74,42 @@ body
 	width 100%
 	height 100%
 	z-index 2
+
+#nav
+	ul
+		list-style none
+		text-align center
+		margin 0
+	li
+		display inline-block
+
+	a,
+	a:after
+		transition all 0.5s
+	a
+		position relative
+		font-size 20px
+		padding 0 10px
+		margin 0 2px
+		border-radius(10px)
+		text-decoration none
+		z-index 5
+		
+		&:hover
+			color $white
+
+		&:after
+			position absolute
+			background-color $blue-transparent
+			bottom 0
+			left 0
+			right 0
+			margin auto
+			width 0%
+			content '.'
+			color transparent
+			height 100%
+			z-index -1
+
+		&:hover:after
+				width 100%
