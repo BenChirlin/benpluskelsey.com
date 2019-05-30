@@ -20,13 +20,13 @@ Sonoma, CA
 
 ### Where to Eat
 
-Sonoma and the surrounding area are home to many fantastic restaurants. For breakfast we particularly enjoy Sunflower Café. If you want something a bit more quick and casual we recommend the Basque Boulangerie Café. For any meal The Girl & The Fig is a renowned place to go. Meanwhile Hopmonk is a great spot for food and drinks later on in the night.
+Sonoma and the surrounding area are home to many fantastic restaurants. For breakfast we particularly enjoy Sunflower Caf&#233;. If you want something a bit more quick and casual we recommend the Basque Boulangerie Caf&#233;. For any meal The Girl & The Fig is a renowned place to go. Meanwhile Hopmonk is a great spot for food and drinks later on in the night.
 
-Outside of downtown Sonoma, nearby Petaluma has some fantastic spots. You can grab a fantastic breakfast at the Tea Room Café or Sax's Joint. Or swing by the Lagunita's awesome taproom.
+Outside of downtown Sonoma, nearby Petaluma has some fantastic spots. You can grab a fantastic breakfast at the Tea Room Caf&#233; or Sax's Joint. Or swing by the Lagunita's awesome taproom.
 
 ### What to Do
 
-We would be remiss not to mention Sonoma's amazing wineries! In fact there are too many to name. Some of our favorites include Jacuzzi and Cline Vineyards just a short drive out of downtown. The oil and vinegar tastings available at Jacuzzi are particularly lovely while the rosé at Cline is one our must-trys. You could also consider visiting Domaine Carneros for some classy European architecture and amazing champagnes to match. If you're looking for a more guided tour of the many fantastic vineyards check out the Wine Train or many available tours.
+We would be remiss not to mention Sonoma's amazing wineries! In fact there are too many to name. Some of our favorites include Jacuzzi and Cline Vineyards just a short drive out of downtown. The oil and vinegar tastings available at Jacuzzi are particularly lovely while the ros&#233; at Cline is one our must-trys. You could also consider visiting Domaine Carneros for some classy European architecture and amazing champagnes to match. If you're looking for a more guided tour of the many fantastic vineyards check out the Wine Train or many available tours.
 
 There are also plenty of lovely cheese producers in the area. Marin French Cheese and Nicasio Valley Cheese are two great ones to get you started. You can even check out the amazing California Cheese Trail! And if our engagement photos got you excited we recommend traveling west to Hog Island Oyster Company. Though if that's too far you can also visit their location in Napa's Oxbow Public Market.
 
