@@ -4,6 +4,8 @@ layout: info
 uri: venue
 ---
 
+<center>RSVP by July 14</center>
+
 ## Sonoma
 
 We're excited for you to join us in lovely, sunny Sonoma! If you've never been you're in for a treat. In fact we recommend you give yourself an extra day or two so you can enjoy more of the Sonoma/Marin County area or even the entirety of the Bay. It is a popular time of year for the region so make sure you make your plans early.

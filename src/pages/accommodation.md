@@ -4,6 +4,8 @@ layout: info
 uri: accommodation
 ---
 
+<center>RSVP by July 14</center>
+
 ## Accommodation
 
 Sonoma, as famous as it is, is still quite small and quaint. There are not many major hotels so we suggest you book your accommodation as soon as possible. The area is quite popular year round but especially around this lovely Fall date we've chosen.
