@@ -10,6 +10,8 @@ uri: venue
 
 We're excited for you to join us in lovely, sunny Sonoma! If you've never been you're in for a treat. In fact we recommend you give yourself an extra day or two so you can enjoy more of the Sonoma/Marin County area or even the entirety of the Bay. It is a popular time of year for the region so make sure you make your plans early.
 
+![Beautiful Sonoma, CA](/images/sonoma.jpg "Beautiful Sonoma, CA")
+
 ### Where to Eat
 
 Sonoma and the surrounding area are home to many fantastic restaurants. For breakfast we particularly enjoy [Sunflower Caf&#233;](http://www.sonomasunflower.com/). If you want something a bit more quick and casual we recommend the [Basque Boulangerie Caf&#233;](http://www.basqueboulangerie.com/). For any meal [The Girl & The Fig](https://www.thegirlandthefig.com/) is a renowned place to go. Meanwhile [Hopmonk](https://www.hopmonk.com/sonoma/) is a great spot for food and drinks later on in the night.
