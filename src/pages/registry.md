@@ -4,7 +4,7 @@ layout: info
 uri: registry
 ---
 
-<center>RSVP by July 14</center>
+<center><a href="/rsvp">RSVP</a> by July 14</center>
 
 ## Registry
 

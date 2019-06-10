@@ -4,21 +4,11 @@ layout: info
 uri: venue
 ---
 
-<center>RSVP by July 14</center>
+<center><a href="/rsvp">RSVP</a> by July 14</center>
 
 ## Sonoma
 
 We're excited for you to join us in lovely, sunny Sonoma! If you've never been you're in for a treat. In fact we recommend you give yourself an extra day or two so you can enjoy more of the Sonoma/Marin County area or even the entirety of the Bay. It is a popular time of year for the region so make sure you make your plans early.
-
-### Hotel Depot Restaurant
-
-![Hotel Depot Restaurant](/images/depot-hotel-restaurant.jpg "Hotel Depot Restaurant")
-
-We scoured the Bay Area for suitable wedding venues, everywhere from our Oakland backyard to the distant Redwoods. But when we visited the [Hotel Depot in Sonoma](http://www.depotsonoma.com/) it was a welcome reprieve from this otherwise stressful endeavor. The location, staff, food, and (most importantly) the venue itself were all superb. We hope you will agree! The address is:
-
-[241 1st St W  
-Sonoma, CA  
-95476](https://goo.gl/maps/xRgPeBmCotfya3XZ6)
 
 ### Where to Eat
 

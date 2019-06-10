@@ -6,4 +6,4 @@ layout: homepage
 
 ## Help us write this exciting new chapter
 
-### Hotel Depot Restaurant &nbsp;&nbsp; Sonoma, California &nbsp;&nbsp; September 14, 2019
+### Hotel Depot Restaurant &nbsp;&nbsp; Sonoma, California &nbsp;&nbsp; September 14, 2019 at 5:00pm
