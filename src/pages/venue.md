@@ -12,6 +12,12 @@ We're excited for you to join us in lovely, sunny Sonoma! If you've never been y
 
 ![Beautiful Sonoma, CA](/images/sonoma.jpg "Beautiful Sonoma, CA")
 
+### How to Get There
+
+If arriving by plane you can drive to Sonoma or take the convenient and affordable [**Airport Express Shuttle**](https://airportexpressinc.com/schedule.php). The shuttle leaves hourly from both San Francisco *and* Oakland airports for around $38 one way. Get off at Petaluma Fairgrounds Terminal stop (or one of the hotels it also stops at if convenient for you) and you'll be a short half hour drive to downtown Sonoma and our venue. You can also take the 101 bus from downtown San Francisco to Petaluma.
+
+Sonoma is most easily seen by car so we recommend you rent a vehicle if you plan to do some sight-seeing. Otherwise you can make do with Lyft, available in the area, for short hops from place to place. For the wedding day, we are providing a credit on the Lyft platform. Please download the application ahead of time using [this link](https://www.lyft.com/invite/BKWEDDING) and consider applying the credit to a ride back to your lodging after the wedding. We want you all to be safe so don't drink and drive! If you plan on only attending the wedding and festivities, and are staying in or near Sonoma, you'll probably be fine without a dedicated vehicle and can simply rely on ridesharing services.
+
 ### Where to Eat
 
 Sonoma and the surrounding area are home to many fantastic restaurants. For breakfast we particularly enjoy [Sunflower Caf&#233;](http://www.sonomasunflower.com/). If you want something a bit more quick and casual we recommend the [Basque Boulangerie Caf&#233;](http://www.basqueboulangerie.com/). For any meal [The Girl & The Fig](https://www.thegirlandthefig.com/) is a renowned place to go. Meanwhile [Hopmonk](https://www.hopmonk.com/sonoma/) is a great spot for food and drinks later on in the night.
@@ -25,7 +31,3 @@ We would be remiss not to mention Sonoma's amazing wineries! In fact there are t
 There are also plenty of lovely cheese producers in the area. [Marin French Cheese](https://marinfrenchcheese.com/) and [Nicasio Valley Cheese](https://nicasiocheese.com/) are two great ones to get you started. You can even check out the amazing [California Cheese Trail](http://cheesetrail.org/)! And if our engagement photos got you excited we recommend traveling west to [Hog Island Oyster Company](https://hogislandoysters.com/). Though if that's too far you can also visit their location in Napa's [Oxbow Public Market](https://oxbowpublicmarket.com/).
 
 Lastly we'd recommend you take some time to enjoy the lovely bounties of nature in the area. Point Reyes is a fantastic spot to view the lovely California coastline or go on a short hike. Muir Woods, just a bit further south, is another world famous spot. You can also consider traveling north to Lake Berryessa for a look at the impressive dam with its famous drain hole which might be in use depending on the weather.
-
-### How to Get There
-
-Sonoma is most easily seen by car. As such we recommend you rent a vehicle if you plan to do some sight-seeing. Otherwise you can make do with Lyft, available in the area. For the wedding, we are providing a credit on the Lyft platform, so please download the app ahead of time using [this link](https://www.lyft.com/invite/BKWEDDING) and consider applying the discount to a ride back to your lodging after the wedding. We want you all to be safe! If you only plan to attend the wedding and festivities later, and are staying in or near Sonoma, you'll probably be fine without a dedicated vehicle and can simply rely on ridesharing services.
