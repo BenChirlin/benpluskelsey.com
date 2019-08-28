@@ -4,7 +4,7 @@ layout: info
 uri: event
 ---
 
-<center><a href="/rsvp">RSVP</a> by July 14</center>
+<center><a targe="_blank" href="mailto:benpluskelsey@gmail.com">Email Us</a></center>
 
 ## Event Details
 The wedding will start promptly at 5:00pm and end at 10:00pm. There will be a welcome party the day before the wedding nearby in Sonoma, details to come.

@@ -4,7 +4,7 @@ layout: info
 uri: venue
 ---
 
-<center><a href="/rsvp">RSVP</a> by July 14</center>
+<center><a targe="_blank" href="mailto:benpluskelsey@gmail.com">Email Us</a></center>
 
 ## Sonoma
 
