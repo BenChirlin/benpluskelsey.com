@@ -6,7 +6,7 @@ uri: thank-you
 
 ## Thank You
 
-We thank everyone who attended and who also contributed to our Happliy Ever After fund. We've already begun improving our kitchen with a new Pizza Steel and booked a honeymoon to Belize! We're excited to purchase a new tent and spend some nights under the stars and will be sure to share when we do. 
+We thank everyone who attended and who also contributed to our Happliy Ever After fund. We've already begun improving our kitchen with a new pizza steel, a blender, and have just booked a honeymoon to Belize! We're excited to purchase a new tent and spend some nights under the stars and will be sure to share when we do. 
 
 ![Into the Sunset](/images/motorcycle.jpg "Into the Sunset")
 

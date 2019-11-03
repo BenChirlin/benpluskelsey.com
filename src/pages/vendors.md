@@ -51,11 +51,11 @@ Thank you to Veda Ambeau of [Shirley's Designs](https://www.shirleysdesignsoakla
 
 ![Tables](/images/tables.jpg "Tables")
 
-Thank Leslie Hermann (bride's mother) for helping design and prepare the table arrangements.
+Thank you Leslie Hermann (bride's mother) for helping design and prepare the table arrangements. Also, Marti Kernecker for the grape leaves which added the perfect finish to the idea. We know there were several others who helped put these together and we are so happy with how they turned out.
 
 ![Chuppah](/images/chuppah.jpg "Chuppah")
 
-Thank you Mike and Kelsey Zorn (cousin of the groom) for donating their wedding arch and other items for use in our special day. Reduce, reuse, recycle!
+Thank you Mike and Kelsey Zorn (cousin of the groom) for donating their wedding arch and other items for use in our special day. Reduce, reuse, recycle! And Claire and Dan for carting it from one place, to the next and back again!
 
 ![Sax](/images/sax.jpg "Sax")
 
