@@ -5,7 +5,7 @@ uri: event
 ---
 
 ## Event 
-We were so lucky to have found JP Lor, an amazing photographer, and his second shooter Lisa. Here are some of the highlights from the event!
+We were so lucky to have found JP Lor, an amazing photographer, and his second shooter Lisa. For the full gallery go [here](https://photos.app.goo.gl/om9NP8Qm5eryJHX3A). Otherwise here are some of the highlights from the event!
 
 ### Highlights
 
