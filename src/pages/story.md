@@ -4,8 +4,6 @@ layout: info
 uri: story
 ---
 
-<center><a targe="_blank" href="mailto:benpluskelsey@gmail.com">Email Us</a></center>
-
 ## Our Story
 
 We first met in the summer of 2015 in Oakland, California. We hit it off, pretty quickly and decided to give our relationship a serious try. Since then, we've been building our relationship and falling deeper in love everyday. Now we're ready to start our next important chapter and hope you can join us in celebrating this exciting milestone.

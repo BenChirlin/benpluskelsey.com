@@ -4,6 +4,6 @@ layout: homepage
 ---
 # Ben + Kelsey
 
-## Help us write this exciting new chapter
+## The start of an exciting new chapter
 
-### Hotel Depot Restaurant &nbsp;&nbsp; Sonoma, California &nbsp;&nbsp; September 14, 2019 at 5:00pm
+### Hotel Depot Restaurant &nbsp;&nbsp; Sonoma, California &nbsp;&nbsp; September 14, 2019

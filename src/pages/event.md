@@ -9,16 +9,24 @@ We were so lucky to have found JP Lor, an amazing photographer, and his second s
 
 ### Highlights
 
-![Kelsey Getting Ready](/images/depot-hotel-restaurant.jpg "Hotel Depot Restaurant")
+![Kelsey Getting Ready](/images/kelsey-ready.jpg "Kelsey Getting Ready")
 
-![Ben Getting Ready](/images/depot-hotel-restaurant.jpg "Hotel Depot Restaurant")
+![Ben Getting Ready](/images/ben-ready.jpg "Ben Getting Ready")
 
-![First Look](/images/depot-hotel-restaurant.jpg "Hotel Depot Restaurant")
+![First Look](/images/first-look.jpg "First Look")
 
-![Flower Girls](/images/depot-hotel-restaurant.jpg "Hotel Depot Restaurant")
+![Flower Girls](/images/flower-girls.jpg "Flower Girls")
 
-![Down the Aisle](/images/depot-hotel-restaurant.jpg "Hotel Depot Restaurant")
+![Down the Aisle](/images/down-aisle.jpg "Down the Aisle")
 
-![Rings](/images/depot-hotel-restaurant.jpg "Hotel Depot Restaurant")
+![Ceremony](/images/ceremony.jpg "Ceremony")
 
-![First Kiss](/images/depot-hotel-restaurant.jpg "Hotel Depot Restaurant")
+![First Kiss](/images/first-kiss.jpg "First Kiss")
+
+![Dance](/images/dance.jpg "Dance")
+
+![Hava Nagila](/images/hava-nagila.jpg "Hava Nagila")
+
+![Thank You](/images/thank-you.jpg "Thank You")
+
+<center><a targe="_blank" href="mailto:benpluskelsey@gmail.com">Email Us</a></center>

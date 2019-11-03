@@ -1,7 +1,7 @@
 ---
 title: 'Ben + Kelsey: Thank you'
 layout: info
-uri: registry
+uri: thank-you
 ---
 
 ## Thank You
